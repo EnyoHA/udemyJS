@@ -33,4 +33,4 @@ age = 31;
 
 const birthYear = 1996;
 
-
+job = 'programmer';
